@@ -16,5 +16,5 @@ All icons are used and/or edited with permission from the original owners (6480 
 If you would like to add translations for this mod, Please follow the instructions in the [main README](https://github.com/N3rdGirl/Stardew-Mods/blob/main/README.md)
 
 ## ![Translators](https://i.imgur.com/YhsOedI.png)
-English: Me
+English: Me /n
 Russian: Vanlla1
