@@ -55,7 +55,7 @@
 			"LogName": "Patching Data/Machines",
 			"Action": "Include",
 			"FromFile": "assets/data/Machines.json"
-		}
+		},
 		//add crafting recipes
 		{
 			"LogName": "Adding Cheese Recipes",

@@ -7,10 +7,14 @@ Make sure you have content patcher installed then drop this mod in your mods fol
 ## ![Reporting Issues](https://i.imgur.com/prY2LJu.png)﻿
 In order for me to be able to help you out at all with anything I will need to have a [SMAPI Log](https://smapi.io/log) as well as you posting a bug report. Bug reports help me keep the issues neatly organized
 ## ![Extra Info/Credits](https://i.imgur.com/3IoxJ6a.png)
-Special thanks to ﻿6480 for letting me look at their code for the machine editing.
-Thanks to the people from the stardew wiki on how to add crafting recipes and how to add items.
+Special thanks to ﻿6480 for letting me look at their code for the machine editing.<br>
+Thanks to the people from the stardew wiki on how to add crafting recipes and how to add items.<br>
 Thanks to the creator of [this](https://www.nexusmods.com/stardewvalley/mods/26645) mod for letting me make a more up to date and easier handled version of their mod and for access to use their assets for the item icons.
 
 All icons are used and/or edited with permission from the original owners (6480 for the large goat cheese and Vanlla1 for the large cheese and large mayonnaise) and thus cannot be used or edited without permissions from them.
 
 If you would like to add translations for this mod, Please follow the instructions in the [main README](https://github.com/N3rdGirl/Stardew-Mods/blob/main/README.md)
+
+## ![Translators](https://i.imgur.com/YhsOedI.png)
+English: Me<br>
+Russian: Vanlla1

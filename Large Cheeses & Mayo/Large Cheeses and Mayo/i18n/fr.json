@@ -1,0 +1,22 @@
+{
+	//config
+	"config.Cheese Amount.name": "Quantité de fromage",
+	"config.Cheese Amount.description": "La quantité de fromage normal que vous obtenez lors de la fabrication d'un gros fromage",
+	"config.Goat Cheese Amount.name": "Goat Cheese Amount",
+	"config.Goat Cheese Amount.description": "The amount of normal goat cheese you get when crafting from a Large Goat Cheese",
+	"config.Mayonnaise Splitting.name": "Mayonnaise Splitting",
+	"config.Mayonnaise Splitting.description": "Choose to enable crafting one large mayonnaise into 2 \"normal\" mayonnaises",
+	"config.Balance Regen.name": "Balance Regen",
+	"config.Balance Regen.description": "Change the amount both cheeses heal health and energy based on the splitting ammount",
+	"config.section.Splitting.name": "Splitting",
+	"config.section.Splitting.description": "",
+	"config.section.Balances.name": "Balances",
+	"config.section.Balances.description": "",
+	//items
+	"LargeCheese.DisplayName": "Large Cheese",
+	"LargeCheese.Description": "A rather large wheel of Cheese. You'll need to split it before you can eat it.",
+	"LargeGoatCheese.DisplayName": "Large Goat Cheese",
+	"LargeGoatCheese.Description": "A rather large wheel of Goat Cheese. You'll need to split it up before you can eat it.",
+	"LargeMayo.DisplayName": "Large Mayonnaise",
+	"LargeMayo.Description": "An almost absurd amount of mayonnaise, I wouldn't drink it...",
+}
