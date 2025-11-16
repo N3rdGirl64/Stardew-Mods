@@ -17,4 +17,5 @@ If you would like to add translations for this mod, Please follow the instructio
 
 ## ![Translators](https://i.imgur.com/YhsOedI.png)
 English: Me
+
 Russian: Vanlla1
