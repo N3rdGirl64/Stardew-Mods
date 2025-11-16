@@ -1,0 +1,22 @@
+{
+//config
+"config.Cheese Amount.name": "Количество сыра",
+"config.Cheese Amount.description": "Количество сыра, которое вы получаете при разрезании большого сыра",
+"config.Goat Cheese Amount.name": "Количество козьего сыра",
+"config.Goat Cheese Amount.description": "Количество козьего сыра, которое вы получаете при разрезании большого козьего сыра",
+"config.Mayonnaise Splitting.name": "Переливка майонеза",
+"config.Mayonnaise Splitting.description": "Включить возможность переливать из одного большого майонеза два маленьких.",
+"config.Balance Regen.name": "Баланс восстановления",
+"config.Balance Regen.description": "Изменяет количество здоровья и энергии, восстанавливаемых обоими видами сыра, в зависимости от количества деления",
+"config.section.Splitting.name": "Разделение",
+"config.section.Splitting.description": "",
+"config.section.Balances.name": "Баланс",
+"config.section.Balances.description": "",
+//items
+"LargeCheese.DisplayName": "Большой сыр",
+"LargeCheese.Description": "Большая головка сыра. Придётся разрезать его, прежде чем съесть.",
+"LargeGoatCheese.DisplayName": "Большой козий сыр",
+"LargeGoatCheese.Description": "Большая головка козьего сыра. Придётся разрезать его, прежде чем съесть.",
+"LargeMayo.DisplayName": "Большой майонез",
+"LargeMayo.Description": "Абсурдное количество майонеза, не стоит это пить...",
+}

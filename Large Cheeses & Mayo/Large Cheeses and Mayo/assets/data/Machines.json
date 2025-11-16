@@ -13,6 +13,7 @@
 				"(O)424"
 			],
 			"Entries": {
+				"CopyQuality": true,
 				"ItemId": "(O){{ModID}}.LargeCheese"
 			}
 		},
@@ -28,6 +29,7 @@
 				"(O)426"
 			],
 			"Entries": {
+				"CopyQuality": true,
 				"ItemId": "(O){{ModID}}.LargeGoatCheese"
 			}
 		},
@@ -43,6 +45,7 @@
 				"(O)306"
 			],
 			"Entries": {
+				"CopyQuality": true,
 				"ItemId": "(O){{ModID}}.LargeMayo"
 			}
 		}
