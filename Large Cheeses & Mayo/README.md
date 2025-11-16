@@ -14,3 +14,7 @@ Thanks to the creator of [this](https://www.nexusmods.com/stardewvalley/mods/266
 All icons are used and/or edited with permission from the original owners (6480 for the large goat cheese and Vanlla1 for the large cheese and large mayonnaise) and thus cannot be used or edited without permissions from them.
 
 If you would like to add translations for this mod, Please follow the instructions in the [main README](https://github.com/N3rdGirl/Stardew-Mods/blob/main/README.md)
+
+##![Translators](https://i.imgur.com/YhsOedI.png)
+English: Me
+Russian: Vanlla1
